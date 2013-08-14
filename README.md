@@ -35,4 +35,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [1]: http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611
 [2]: http://raw.github.com/idleberg/Kimbie-Chrome-Developer-Tools/master/images/screenshot.gif
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
-[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Chrome-Developer-Tools/&title=Kimbie&20Color%20Scheme&category=software
+[4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Chrome-Developer-Tools/&title=Kimbie%20Color%20Scheme&category=software
