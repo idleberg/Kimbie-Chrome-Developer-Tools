@@ -36,3 +36,6 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 [2]: https://raw.github.com/idleberg/Kimbie-Chrome-Developer-Tools/master/images/screenshot.gif
 [3]: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US
 [4]: https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/Kimbie-Chrome-Developer-Tools/&title=Kimbie%20Color%20Scheme&category=software
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/idleberg/kimbie-chrome-developer-tools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
