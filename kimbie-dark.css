@@ -16,7 +16,7 @@
 }
 #-webkit-web-inspector.compact #toolbar {
   background: -webkit-linear-gradient(#a57a4c, #5e452b) !important;
-  border-top: 5px solid #18401e !important;
+  border-top: 5px solid #088649 !important;
   border-bottom: 1px solid #84613d !important;
   padding-top: 0 !important;
   height: 50px !important;
@@ -182,7 +182,7 @@
   color: #CCC !important;
 }
 #-webkit-web-inspector .properties .value {
-  color: #18401e !important;
+  color: #088649 !important;
 }
 #-webkit-web-inspector .metrics {
   color: #333 !important;
@@ -393,7 +393,7 @@
   color: #98676a !important;
 }
 #-webkit-web-inspector .webkit-css-string {
-  color: #18401e !important;
+  color: #088649 !important;
 }
 #-webkit-web-inspector .webkit-css-url {
   color: #8ab1b0 !important;
@@ -496,7 +496,7 @@
 }
 #-webkit-web-inspector #timeline-overview-separator {
   background: -webkit-linear-gradient(#a57a4c, #5e452b) !important;
-  border-top: 1px solid #18401e !important;
+  border-top: 1px solid #088649 !important;
   border-bottom: 1px solid #84613d !important;
 }
 #-webkit-web-inspector .timeline-details-title {
@@ -581,7 +581,7 @@
 }
 #-webkit-web-inspector .settings-tab .help-section-title,
 #-webkit-web-inspector .help-key {
-  color: #18401e !important;
+  color: #088649 !important;
 }
 #-webkit-web-inspector .help-key-delimiter {
   color: #98676a !important;
@@ -593,7 +593,7 @@
   background: #333 !important;
 }
 #-webkit-web-inspector .placard.selected {
-  background-image: -webkit-linear-gradient(#18401e, #335e57) !important;
+  background-image: -webkit-linear-gradient(#088649, #335e57) !important;
   border-top-color: #335e57 !important;
 }
 #-webkit-web-inspector .placard .title {
