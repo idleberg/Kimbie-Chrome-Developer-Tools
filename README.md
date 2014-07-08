@@ -2,6 +2,8 @@
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by British band Mount Kimbie.
 
+**Note**: As of Chrome 33, theming support has been overworked (if not [removed](https://codereview.chromium.org/66383005/) altogether), making this style-sheet incompatible. Should you be interested in updating this theme, you might want to use this [Yeoman generator](https://www.npmjs.org/package/generator-devtools-theme) as reference. Please commit your changes to the [Base16 template](https://github.com/chriskempson/base16-builder/tree/master/templates/chrome-devtools)!
+
 ![Animated Screenshot](https://raw.github.com/idleberg/Kimbie-Chrome-Developer-Tools/master/images/screenshot.gif)
 
 ## Installation
