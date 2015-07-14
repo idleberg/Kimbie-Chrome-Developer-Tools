@@ -4,7 +4,7 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 **Note**: As of Chrome 33, theming support has been overworked (if not [removed](https://codereview.chromium.org/66383005/) altogether), making this style-sheet incompatible. Should you be interested in updating this theme, you might want to use this [Yeoman generator](https://www.npmjs.org/package/generator-devtools-theme) as reference. Please commit your changes to the [Base16 template](https://github.com/chriskempson/base16-builder/tree/master/templates/chrome-devtools)!
 
-![Preview](https://raw.github.com/idleberg/Kimbie-Chrome-Developer-Tools/master/screenshot.PNG)
+![Preview](https://raw.github.com/idleberg/Kimbie-Chrome-Developer-Tools/master/screenshot.png)
 
 ## Installation
 
